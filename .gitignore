@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.elf.*
+Libraries/CMSIS/Documentation
+.settings
+*.list
+*.map
